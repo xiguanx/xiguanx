@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **xiguan710@gmail.com**
 
-- ⚡ Fun fact **I'm a cat person**
+- ⚡ Fun fact **I'm a cat parent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
