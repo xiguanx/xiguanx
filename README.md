@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xi</h1>
-<h3 align="center">A software development beginner</h3>
+<h3 align="center">A Software Developmenter focusing on Full-Stack Web/Graphics</h3>
 
 - 🌱 I’m currently learning **Web Development & Database Management Systems**
 
