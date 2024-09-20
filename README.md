@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **xiguan710@gmail.com**
 
-- ⚡ Fun fact **I'm a cat parent** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 50>
+- ⚡ Fun fact **I want to sleep over night in an aquarium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
