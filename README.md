@@ -1,6 +1,6 @@
 <p align = "center" ><img src = "https://github.com/xiguanx/xiguanx/blob/main/pixels.gif?raw=true" width = 600></p>
 <h1 align="center">Hi 👋, I'm Xi</h1>
-<h3 align="center">A Software Developmenter focusing on Full-Stack Web/Graphics</h3>
+<h3 align="center">A Software Developer focusing on Full-Stack Web/Graphics</h3>
 
 - 🌱 I’m currently learning **Web Development & Database Management Systems**
 
