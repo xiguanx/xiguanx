@@ -1,8 +1,10 @@
 <p align = "center" ><img src = "https://github.com/xiguanx/xiguanx/blob/main/pixels.gif?raw=true" width = 600></p>
 <h1 align="center">Hi 👋, I'm Xi</h1>
-<h3 align="center">A Software Developer focusing on Full-Stack Web/Graphics</h3>
+<h3 align="center">A Software Developer focusing on Full-Stack Web</h3>
 
 - 🌱 I’m currently learning **Web Development & Database Management Systems**
+
+- 🔭 I'm currently working on **API Integration and Data Visualization for WinterGreen**
 
 - 📫 How to reach me **xiguan710@gmail.com**
 
