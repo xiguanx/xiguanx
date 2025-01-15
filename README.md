@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Xi</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 🌱 I’m currently learning **Spring, Kotlin and Multithreading**
+- 🌱 I’m currently learning **Spring Boot and Multithreading**
 
-- 🔭 I'm currently working on **Microservices Architecture and Mobile App Development**
+- 🔭 I'm currently working on **Microservices Architecture**
 
 - 📫 How to reach me **xiguan710@gmail.com**
 
-- ⚡ Fun fact **violin, hiking, travelling, video games, cat parent**
+- ⚡ Fun fact **hiking, travelling, video games, violin, cat mom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
