@@ -8,23 +8,6 @@ I'm a software engineer with hands-on experience building scalable, high-perform
 
 Outside of coding, I enjoy **hiking**, **traveling**, and listening to **music**.
 
-<h3 align="left">🚀 Tech Stack & Tools </h3>
-
-**Languages:**  
-- `JavaScript/TypeScript`, `Python`, `C++`, `Go`, `Java`, `SQL`, `C`
-
-**Frameworks & Libraries:**  
-- `React.js`, `Node.js`, `Express`, `Spring Boot`, `Tailwind CSS`, `Resilience4j`
-
-**Cloud & DevOps:**  
-- `AWS (Lambda, Athena, QuickSight, HealthLake)`, `Docker`, `Kubernetes`, `CI/CD`, `Jenkins`
-
-**Data & Infrastructure:**  
-- `MongoDB`, `PostgreSQL`, `Redis`, `Kafka`, `RabbitMQ`, `REST APIs`
-
-**Tools & Platforms:**  
-- `Git`, `Figma`, `Postman`, `Linux`, `Google Calendar API`, `Stripe API`
-
 <h3 align="left">Connect with me:</h3>
 
 🔗 [LinkedIn](https://www.linkedin.com/in/xi-guan-047394a7/)
