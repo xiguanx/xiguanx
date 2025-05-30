@@ -4,7 +4,9 @@
 
 <h3 align="left">💡 About Me</h3>
 
-I'm a software engineer with hands-on experience building scalable, high-performance applications across the full stack. My recent work includes HIPAA-compliant healthcare systems, cloud-based data pipelines, and distributed microservices architectures. I enjoy working on real-world problems, learning new technologies, and collaborating across functions to deliver meaningful, production-ready software. 
+- I'm a software engineer with hands-on experience building scalable, high-performance applications across the full stack. 
+- My recent work includes HIPAA-compliant healthcare systems, cloud-based data pipelines, and distributed microservices architectures. 
+- I enjoy working on real-world problems, learning new technologies, and collaborating across functions to deliver meaningful, production-ready software. 
 
 Outside of coding, I enjoy **hiking**, **traveling**, and listening to **music**.
 
