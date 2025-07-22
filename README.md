@@ -1,12 +1,13 @@
 <p align = "center" ><img src = "https://github.com/xiguanx/xiguanx/blob/main/pixels.gif?raw=true" width = 600></p>
 <h1 align="center">Hi 👋, I'm Xi</h1>
-<h3 align="center">Full-stack Developer | Backend Engineer | Cloud & Infrastructure Enthusiast</h3>
+<h3 align="center">Full-stack Developer | Aspiring Database & Systems Engineer</h3>
 
 <h3 align="left">💡 About Me</h3>
 
 - I'm a software engineer with hands-on experience building scalable, high-performance applications across the full stack. 
 - My recent work includes HIPAA-compliant healthcare systems, cloud-based data pipelines, and distributed microservices architectures. 
-- I enjoy working on real-world problems, learning new technologies, and collaborating across functions to deliver meaningful, production-ready software. 
+- Beyond full-stack development, I'm passionate about systems programming and database internals — from buffer pools and B+ trees to transaction protocols and query execution.
+- I'm currently diving deeper into C++, operating systems, and database system design through projects like [BusTub](https://github.com/cmu-db/bustub) and custom storage engines.
 
 Outside of coding, I enjoy **hiking**, **traveling**, and listening to **music**.
 
