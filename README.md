@@ -6,7 +6,7 @@
 
 - I'm a software engineer with hands-on experience building scalable, high-performance applications across the full stack. 
 - My recent work includes HIPAA-compliant healthcare systems, cloud-based data pipelines, and distributed microservices architectures. 
-- Beyond full-stack development, I'm passionate about systems programming and database internals — from buffer pools and B+ trees to transaction protocols and query execution.
+- Beyond full-stack development, I'm passionate about systems programming and database internals, from buffer pools and B+ trees to transaction protocols and query execution.
 - I'm currently diving deeper into C++, operating systems, and database system design through projects like [BusTub](https://github.com/cmu-db/bustub) and custom storage engines.
 
 Outside of coding, I enjoy **hiking**, **traveling**, and listening to **music**.
